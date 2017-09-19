@@ -1,11 +1,14 @@
 {
-    "name": "My Second Extension",
+    "name": "Chrome Time Tracker",
     "version": "1.0",
     "manifest_version": 2,
-	
+	"background":{
+		"persistent":true,
+		"scripts":["background.js"]
+	},
     "browser_action": {
-        "default_popup": "popup.html",
-	"default_icon": "icon.png",
-	"default_title": "Timing"
+		"default_popup": "popup.html",
+		"default_icon": "icon.png",
+		"default_title": "Timing"
     }
 }
