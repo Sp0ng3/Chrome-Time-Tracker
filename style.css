@@ -7,3 +7,7 @@ body{
 	padding: 10px;
 	border-radius:20px;
 }
+#time{
+	font-size:60%;
+	text-align:center;
+}
