@@ -1,1 +1,1 @@
-alert("I am running you mother fucker");
+alert("I am running you mother trucker");
