@@ -1,0 +1,9 @@
+body{
+	background-color:#6699ff;
+	font-size:70%;
+}
+#content{
+	background-color:#99ccff;
+	padding: 10px;
+	border-radius:20px;
+}

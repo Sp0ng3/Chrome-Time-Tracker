@@ -1,5 +1,17 @@
+<<<<<<< HEAD
+=======
+//This dirty segment of code was done by Colin
+chrome.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 0] });
+//chrome.browserAction.setBadgeText({text: '1'});
+//alert("I am running you mother trucker");
+//chrome.browserAction.setBadgeText({text: '2'});
+//alert("I am running you mother lover");
+//chrome.browserAction.setBadgeText({text: '2'});
+
+
+>>>>>>> 3a3ca06ebe68d8d09dbafdfa800229cd042228c2
 //NOW THE DIRTY CODE ENDS, AND THE CLEAN SPLEAN CODE IS BELOW BY THE AMAZING MILAN
-var seconds = 2;
+var seconds = 0;
 var minutes = 0;
 var hours = 0;
 function main(){
