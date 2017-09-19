@@ -4,8 +4,6 @@ chrome.browserAction.setBadgeText({text: '1'});
 //alert("I am running you mother trucker");
 chrome.browserAction.setBadgeText({text: '2'});
 //alert("I am running you mother lover");
-<<<<<<< HEAD
-=======
 chrome.browserAction.setBadgeText({text: '2'});
 //NOW THE DIRTY CODE ENDS, AND THE CLEAN SPLEAN CODE IS BELOW BY THE AMAZING MILAN
 var seconds = 2;
@@ -30,4 +28,3 @@ function main(){
 	},1000);
 }
 main();
->>>>>>> 16c7d9b9b40506f44ad3aefe6023c5bdaf1ae9b7
