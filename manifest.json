@@ -2,6 +2,9 @@
     "name": "Chrome Time Tracker",
     "version": "1.0",
     "manifest_version": 2,
+	"permissions":[
+		"storage"
+	],
 	"background":{
 		"persistent":true,
 		"scripts":["background.js"]
