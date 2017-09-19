@@ -1,9 +1,9 @@
 //This dirty segment of code was done by Colin
 chrome.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 0] });
 chrome.browserAction.setBadgeText({text: '1'});
-alert("I am running you mother trucker");
+//alert("I am running you mother trucker");
 chrome.browserAction.setBadgeText({text: '2'});
-alert("I am running you mother lover");
+//alert("I am running you mother lover");
 <<<<<<< HEAD
 =======
 chrome.browserAction.setBadgeText({text: '2'});
