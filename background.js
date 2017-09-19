@@ -1,5 +1,5 @@
 
-chrome.browserAction.setBadgeBackgroundColor({ color: [0, 0, 0, 0] });
+chrome.browserAction.setBadgeBackgroundColor({ color: [77, 165, 223, 0] });
 
 //NOW THE DIRTY CODE ENDS, AND THE CLEAN SPLEAN CODE IS BELOW BY THE AMAZING MILAN
 var seconds = 0;
